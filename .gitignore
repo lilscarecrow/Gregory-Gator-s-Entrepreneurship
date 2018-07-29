@@ -259,3 +259,15 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/test_Data
+/test.exe
+/Temp
+/ProjectSettings
+/Library
+/Gregroy Gator's Entrepreneurship.sln
+/Gregroy Gator's Entrepreneurship.csproj
+/Assets/Sprites
+/Assets/Prefabs
+/Assets/Levels
+/Assets/Audio
+/.collabignore
