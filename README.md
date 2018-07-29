@@ -7,3 +7,7 @@ To contribute:
 2. Select "New Issue"
 3. Attach the asset you want me to use (and make a short description of the purpose of it)
 4. Submit it!!!!!
+
+
+My Trello for tracking progress:
+https://trello.com/b/xkoPgGXw/gregory-gators-entrepreneurship
